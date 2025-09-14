@@ -1,0 +1,7 @@
+Enter two numbers: 3 5
+After swap: 5 3
+dhruvisingh@Dhruvis-MacBook-Air DAY 3 % gccQ6.c
+zsh: command not found: gccQ6.c
+dhruvisingh@Dhruvis-MacBook-Air DAY 3 % ./a.out
+Enter two numbers: -1 1
+After swap: 1 -1
