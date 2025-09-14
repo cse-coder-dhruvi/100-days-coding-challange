@@ -1,0 +1,5 @@
+ 5
+sum = 15
+dhruvisingh@Dhruvis-MacBook-Air day 4 % gcc Q8.c
+dhruvisingh@Dhruvis-MacBook-Air day 4 % ./a.out
+10
