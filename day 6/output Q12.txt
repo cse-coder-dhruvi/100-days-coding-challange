@@ -1,0 +1,9 @@
+ Enter an integer: -5
+dhruvisingh@Dhruvis-MacBook-Air day 6 % gcc Q12.c
+dhruvisingh@Dhruvis-MacBook-Air day 6 % ./a.out
+Enter an integer: 0
+0 is zero.
+dhruvisingh@Dhruvis-MacBook-Air day 6 % gcc Q12.c
+dhruvisingh@Dhruvis-MacBook-Air day 6 % ./a.out
+Enter an integer: 10
+10 is positive.
