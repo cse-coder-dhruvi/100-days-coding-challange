@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Enter first number: 3
 Enter second number: 4
 The sum of 3 and 4 is 7
