@@ -1,0 +1,6 @@
+ 3661
+Time = 1:1:1
+dhruvisingh@Dhruvis-MacBook-Air day 5 % gcc Q10.c
+dhruvisingh@Dhruvis-MacBook-Air day 5 % ./a.out
+7322
+Time = 2:2:2
