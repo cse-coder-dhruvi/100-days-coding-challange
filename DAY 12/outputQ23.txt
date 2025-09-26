@@ -1,0 +1,6 @@
+ Enter number of late days: 8
+Fine Rs 32%                     
+Enter number of late days: 14
+Fine Rs 56%                     
+Enter number of late days: 32
+Membership Cancelled%        
