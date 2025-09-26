@@ -1,0 +1,4 @@
+Enter day number :1
+Monday%                                                                                                               
+Enter day number :2
+Tuesday%              
