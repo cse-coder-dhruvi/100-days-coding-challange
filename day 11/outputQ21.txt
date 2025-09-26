@@ -1,0 +1,6 @@
+Enter month number: 2
+February, 28 days%                                                                                                    
+Enter month number: 11
+November, 30 days%                                                                                                    
+
+
