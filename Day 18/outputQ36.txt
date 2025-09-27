@@ -1,0 +1,4 @@
+Enter two numbers: 4 2
+HCF (GCD): 2%                                                                                                                                               
+Enter two numbers: 3 5
+HCF (GCD): 1%             
