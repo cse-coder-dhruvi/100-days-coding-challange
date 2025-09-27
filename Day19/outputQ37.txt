@@ -1,0 +1,5 @@
+Enter two numbers: 23
+34
+LCM: 782%                                                                                                                                                  
+Enter two numbers: 2 8
+LCM: 8%                       
