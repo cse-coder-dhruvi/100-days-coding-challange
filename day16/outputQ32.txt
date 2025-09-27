@@ -1,0 +1,4 @@
+Enter a number: 122
+Not a palindrome%               
+Enter a number: 121
+Palindrome%             
