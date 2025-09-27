@@ -1,0 +1,6 @@
+Enter a number: 7
+Prime number%                                                                                                                                               
+Enter a number: 2
+Prime number%                                                                                                                                               
+Enter a number: 1
+Not a prime number%     
