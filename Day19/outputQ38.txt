@@ -1,0 +1,4 @@
+Enter a number: 3
+sum: 3
+Enter a number: 27    
+sum: 9
