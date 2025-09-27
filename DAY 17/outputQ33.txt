@@ -1,0 +1,4 @@
+Enter a number: 234
+Not an Armstrong number%                                                                                                                                    
+Enter a number: 153
+Armstrong number%     
