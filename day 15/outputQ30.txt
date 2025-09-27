@@ -1,0 +1,4 @@
+Enter a number: 1234
+Reversed number is 4321%        
+Enter a number: 200
+Reversed number is 2%
