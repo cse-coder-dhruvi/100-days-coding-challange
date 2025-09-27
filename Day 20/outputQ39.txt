@@ -1,0 +1,4 @@
+Enter a number: 23
+Product: 3%                                                                                                                                                 
+Enter a number: 89
+Product: 9%             
