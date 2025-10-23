@@ -1,0 +1,6 @@
+ Enter the number of elements: 5
+Enter 5 elements:
+3 4 5 6 7 
+Positive numbers count: 5
+Negative numbers count: 0
+Zero elements count: 0
