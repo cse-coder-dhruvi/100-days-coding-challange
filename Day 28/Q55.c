@@ -6,7 +6,7 @@ int main()
   int n, i, j, isPrime;
   printf("Enter the value of n: ");
   scanf("%d", &n);
-  printf("Prime numbers: ", n);
+  printf("Prime numbers: " );
   for (i = 2; i <= n; i++) 
   {
     isPrime = 1;
