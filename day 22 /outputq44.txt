@@ -1,0 +1,4 @@
+Enter the number of terms: 9
+Sum of the series: 8.1
+Enter the number of terms: 2
+Sum of the series: 1.8
