@@ -1,0 +1,8 @@
+ Enter the number of elements: 5
+Enter 5 elements: 1 2 3 4 5 
+Enter the element to search: 3
+3 found at index 2 
+Enter the number of elements: 4
+Enter 4 elements: 2 4 6 8
+Enter the element to search: 28
+-1
