@@ -1,0 +1,4 @@
+ Enter the number of elements: 2        
+Enter 2 elements: 2 4
+Even numbers count: 2
+Odd numbers count: 0
