@@ -1,0 +1,2 @@
+ Enter an integer number: 112233
+Digit that occurs most frequently: 1
