@@ -1,9 +1,9 @@
 
 Enter the number of terms: 3
 Sum of the series: 1.78
-
 Enter the number of terms: 6
 Sum of the series: 3.36
+ 
 
 
 
