@@ -1,0 +1,4 @@
+Enter a number: 6
+Perfect Number%                 
+Enter a number: 9
+Not a Perfect Number%           
