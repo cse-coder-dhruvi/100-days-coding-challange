@@ -11,7 +11,7 @@ Write a program to print the following pattern:
 *
 */
 
-#include <stdio.h>
+#include <stdio.h> 
 int main() 
 {
   int n = 5;
