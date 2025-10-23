@@ -25,6 +25,6 @@ int main()
   if (found)
   printf("%d found at index %d \n", s, i);
   else
-  printf("-1", s);
+  printf("-1\n");
   return 0;
 }
