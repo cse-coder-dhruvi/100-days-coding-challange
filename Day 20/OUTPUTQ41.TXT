@@ -1,0 +1,4 @@
+Enter a number: 44
+Swapped Number: 44
+Enter a number: 1001
+Swapped Number: 1001
