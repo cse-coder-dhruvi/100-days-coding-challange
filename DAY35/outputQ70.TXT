@@ -1,0 +1,5 @@
+ Enter the number of elements: 4
+Enter elements: 1 2 3 4 
+Enter number of k positions to rotate right: 3 
+Array after rotating right by k positions: 
+2 3 4 1 
