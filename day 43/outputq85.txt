@@ -1,0 +1,2 @@
+ Enter the string: abcd
+The reversed string: dcba
