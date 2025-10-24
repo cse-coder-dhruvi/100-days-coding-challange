@@ -1,0 +1,20 @@
+ Enter number of rows of first matrix: 2
+Enter number of columns of first matrix: 2
+Enter elements of the first matrix: 
+1 2 3 4 
+
+First Matrix: 
+1 2 
+3 4 
+Enter number of rows of second matrix: 2   
+Enter number of columns of second matrix: 2
+Enter elements of the second matrix: 
+1 2 3 4 
+
+Second Matrix: 
+1 2 
+3 4 
+
+Matrix Addition: 
+2 4 
+6 8 
