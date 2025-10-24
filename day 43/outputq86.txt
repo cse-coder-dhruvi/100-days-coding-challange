@@ -1,0 +1,5 @@
+ Enter a string: sir
+The string is not a palindrome.
+           
+Enter a string: madam
+The string is a palindrome.
