@@ -1,0 +1,4 @@
+ Enter a string: a b1&b2              
+Spaces: 1
+Digits: 2
+Special characters: 1
