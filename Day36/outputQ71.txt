@@ -1,0 +1,6 @@
+ Enter number of rows: 2
+Enter number of columns: 2
+Enter elements of the matrix: 1 2 3 4
+The matrix: 
+1 2 
+3 4 
