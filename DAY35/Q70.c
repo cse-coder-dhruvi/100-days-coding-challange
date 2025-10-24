@@ -7,7 +7,7 @@ int main()
   printf("Enter the number of elements: ");
   scanf("%d", &size);
   int arr[size];
-  printf("Enter elements: ", size);
+  printf("Enter elements: ");
   for (i = 0; i < size; i++) 
   {
     scanf("%d", &arr[i]);
@@ -33,7 +33,7 @@ int main()
     arr[i] = arr[size - 1 - (i - k)];
     arr[size - 1 - (i - k)] = temp;
   }
-  printf("Array after rotating right by k positions: \n", k);
+  printf("Array after rotating right by k positions: \n");
   for (i = 0; i < size; i++) 
   {
     printf("%d ", arr[i]);
