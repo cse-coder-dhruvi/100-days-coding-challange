@@ -7,7 +7,7 @@ int main()
   printf("Enter the number of sorted elements: ");
   scanf("%d", &size);
   int arr[size + 1]; 
-  printf("Enter sorted elements: ", size);
+  printf("Enter sorted elements: ");
   for (i = 0; i < size; i++) 
   {
     scanf("%d", &arr[i]);
