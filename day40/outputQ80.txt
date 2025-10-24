@@ -1,0 +1,21 @@
+ Enter number of rows of first matrix: 2
+Enter number of columns of first matrix: 3
+Enter number of rows of second matrix: 3
+Enter number of columns of second matrix: 2
+Enter elements of the first matrix: 
+1 2 3 4 5 6
+
+First Matrix: 
+1 2 3 
+4 5 6 
+Enter elements of the second matrix: 
+7 8 9 10 11 12 
+
+Second Matrix: 
+7 8 
+9 10 
+11 12 
+
+Matrix Multiplication: 
+58 64 
+139 154 
