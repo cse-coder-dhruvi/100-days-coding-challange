@@ -7,14 +7,14 @@ int main()
   printf("Enter the number of elements: ");
   scanf("%d", &size);
   int arr[size + 1];  
-  printf("Enter elements: ", size);
+  printf("Enter elements: ");
   for (i = 0; i < size; i++) 
   {
     scanf("%d", &arr[i]);
   }
   printf("Enter the element to insert: ");
   scanf("%d", &elem);
-  printf("Enter the position to insert element: ", size + 1);
+  printf("Enter the position to insert element: ");
   scanf("%d", &pos);
   if (pos < 1 || pos > size + 1) 
   {
