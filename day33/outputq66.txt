@@ -1,0 +1,8 @@
+ Enter the number of sorted elements: 5
+Enter sorted elements: 1 2 3 4 5 6 
+Enter the element to insert: Array after insertion: 
+1 2 3 4 5 6 
+Enter the number of sorted elements: 3
+Enter sorted elements: 1 2 3 4 
+Enter the element to insert: Array after insertion: 
+1 2 3 4 
