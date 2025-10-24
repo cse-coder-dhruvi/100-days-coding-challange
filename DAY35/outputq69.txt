@@ -1,0 +1,3 @@
+ Enter the number of elements: 5
+Enter elements: 10 20 30 40 50
+Second largest element: 40
