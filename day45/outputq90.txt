@@ -1,0 +1,4 @@
+ Enter a string: hello
+Toggled string: HELLO
+Enter a string: programming
+Toggled string: PROGRAMMING
