@@ -1,0 +1,16 @@
+ Enter a string: hi
+h
+i
+       
+Enter a string: how are you
+h
+o
+w
+ 
+a
+r
+e
+ 
+y
+o
+u
