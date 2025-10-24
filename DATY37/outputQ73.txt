@@ -1,9 +1,0 @@
- Enter number of rows: 2
-Enter number of columns: 3
-Enter elements of the matrix: 1 2 3 4 5 6 
-The matrix: 
-1 2 3 
-4 5 6 
-Sum of each row: 
-Row 1: 6
-Row 2: 15
