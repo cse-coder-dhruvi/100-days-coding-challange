@@ -7,12 +7,12 @@ int main()
   printf("Enter the number of elements: ");
   scanf("%d", &size);
   int arr[size];
-  printf("Enter elements: ", size);
+  printf("Enter elements: ");
   for (i = 0; i < size; i++) 
   {
     scanf("%d", &arr[i]);
   }
-  printf("Enter index to delete: ", size - 1);
+  printf("Enter index to delete: ");
   scanf("%d", &pos);
   if (pos < 0 || pos >= size) 
   {
