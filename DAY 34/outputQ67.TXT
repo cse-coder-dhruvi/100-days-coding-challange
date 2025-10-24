@@ -1,0 +1,6 @@
+ Enter the number of elements: 4
+Enter elements: 10 20 30 40
+Enter the element to insert: 14
+Enter the position to insert element: 2
+Array after insertion: 
+10 14 20 30 40 
