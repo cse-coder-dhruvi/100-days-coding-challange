@@ -1,0 +1,11 @@
+ Enter first string: abcdae
+Enter second string: deadc
+Not a rotation.
+      
+Enter first string: abcde
+Enter second string: deabc
+Rotation
+
+
+
+
