@@ -1,0 +1,2 @@
+ Enter a string: education
+String without vowels: dctn
