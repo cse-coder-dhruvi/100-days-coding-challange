@@ -1,0 +1,3 @@
+ Enter first string: listen
+Enter second string: silent
+Anagrams
