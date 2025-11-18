@@ -1,0 +1,9 @@
+ nter number of elements: 6
+Enter sorted array elements: 5 7 7 8 8 10
+Enter target value: 8 at index 3
+First Occurrence: 8 at index 3
+Last Occurrence: 8 at index 4
+Enter number of elements: 6
+Enter sorted array elements: 5 7 7 8 8 10
+Enter target value: 6
+-1, -1
