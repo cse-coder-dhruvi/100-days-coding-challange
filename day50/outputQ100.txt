@@ -1,0 +1,4 @@
+ Enter string: helllo
+h, he, hel, hell, helll, helllo, e, el, ell, elll, elllo, l, ll, lll, lllo, l, ll, llo, l, lo, o%                     
+Enter string: hello
+h, he, hel, hell, hello, e, el, ell, ello, l, ll, llo, l, lo, o%  
