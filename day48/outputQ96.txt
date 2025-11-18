@@ -1,0 +1,4 @@
+ Enter a sentence: i love coding     
+Reversed words: i evol gnidoc 
+Enter a sentence: i love you mom
+Reversed words: i evol uoy mom
