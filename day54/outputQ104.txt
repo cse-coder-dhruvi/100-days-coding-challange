@@ -1,0 +1,5 @@
+Enter a positive integer: 8
+6
+            
+Enter a positive integer: 1
+1 
