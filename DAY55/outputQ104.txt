@@ -1,4 +1,0 @@
-Enter a positive integer: 6
--1
-Enter a positive integer: 1
-1 
