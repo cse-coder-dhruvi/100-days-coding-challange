@@ -1,0 +1,4 @@
+    
+Enter a string: abcdeabccdd
+Length of longest substring without repeating characters: 5
+
