@@ -1,0 +1,7 @@
+ Enter first string: anagram
+Enter second string: nagaram
+Anagram
+            
+Enter first string: rat
+Enter second string: tar
+Anagram
