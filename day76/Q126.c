@@ -17,7 +17,7 @@ int main()
         return 1;
     }
     // Read and display content
-    printf("\nFile opened successfully.\n", filename);
+    printf("\nFile opened successfully.\n");
     while (fgets(line, sizeof(line), fp) != NULL) 
     {
         printf("%s", line);
