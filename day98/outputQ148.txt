@@ -1,0 +1,11 @@
+ Enter details for Student 1: 
+Name: asha
+Roll No: 101
+Marks: 90
+
+Enter details for Student 2: 
+Name: asha
+Roll No: 101
+Marks: 90
+
+Identical
