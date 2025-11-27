@@ -1,0 +1,7 @@
+ Enter source filename: source.txt 
+Enter destination filename: destintion.txt
+Enter text to save in source.txt:
+learning c in file handling
+Text saved to source.txt successfully!
+
+File copied successfully to destination.txt%  
