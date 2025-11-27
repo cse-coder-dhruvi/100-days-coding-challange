@@ -1,0 +1,20 @@
+ Select your role:
+1 - ADMIN
+2 - USER
+3 - GUEST
+Enter your choice: 1   
+Welcome, Admin! You have full access.
+      
+Select your role:
+1 - ADMIN
+2 - USER
+3 - GUEST
+Enter your choice: 2
+Welcome, User! You have limited access.
+
+Select your role:
+1 - ADMIN
+2 - USER
+3 - GUEST
+Enter your choice: 3
+Welcome, Guest! Please register to gain more access.
