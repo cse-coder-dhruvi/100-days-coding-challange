@@ -23,7 +23,7 @@ int main()
         return 1;
     }
     printf("Enter student name: ");
-    scanf("%s", &head->s.name);
+   scanf("%s", &head->s.name);
     printf("Enter roll number: ");
     scanf("%d", &head->s.roll_no);
     printf("Enter marks: ");
