@@ -7,7 +7,7 @@ int main()
     int n, i;
     printf("Enter number of elements: ");
     scanf("%d", &n);
-    printf("Enter integer elements(only one element will be repeated): ", n);
+    printf("Enter integer elements(only one element will be repeated): ");
     for (i = 0; i < n; i++) 
     {
         scanf("%d", &arr[i]);
