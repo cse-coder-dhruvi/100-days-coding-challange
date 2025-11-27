@@ -1,0 +1,5 @@
+ Enter a string: hello amnophile 
+Sentence case: Hello Amnophile 
+         
+Enter a string: o m trying to build    
+Sentence case: O M Trying To Build 
