@@ -1,0 +1,8 @@
+ Enter traffic light color: GREEN
+Go
+          
+Enter traffic light color: RED
+Stop
+   
+Enter traffic light color: YELLOW
+Wait
