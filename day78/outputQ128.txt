@@ -1,0 +1,2 @@
+ Vowels: 8
+Consonants: 10
