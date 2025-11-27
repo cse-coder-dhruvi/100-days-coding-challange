@@ -1,0 +1,15 @@
+ Enter number of students: 2
+
+Enter name of student 1: asha
+Enter roll number: 101
+Enter marks: 85
+
+Enter name of student 2: ravi
+Enter roll number: 102
+Enter marks: 92
+
+Student records saved to students.txt
+
+Reading student records:
+Name: asha, Roll: 101, Marks: 85
+Name: ravi, Roll: 102, Marks: 92
