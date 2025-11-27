@@ -1,0 +1,3 @@
+ Enter the filename to append to: data.txt
+Enter the text to append: this is appended text.
+File updated successfully with appended text.%  
