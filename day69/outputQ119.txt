@@ -1,0 +1,4 @@
+         
+Enter number of elements: 8
+Enter integer elements(only one element will be repeated): 8 7 5 4 0 2 5 9 
+Repeated element is: 5
