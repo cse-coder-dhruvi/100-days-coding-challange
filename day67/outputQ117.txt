@@ -1,0 +1,5 @@
+ Enter size of first sorted array: 4
+Enter elements: 11 44 5 66
+Enter size of second sorted array: 4
+Enter sorted elements: 33 55 77 88 
+Merged sorted array: 11 33 44 5 55 66 77 88 
