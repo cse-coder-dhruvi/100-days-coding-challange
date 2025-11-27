@@ -1,0 +1,19 @@
+ Select status:
+0 - SUCCESS
+1 - FAILURE
+2 - TIMEOUT
+Enter your choice: 1
+Operation failed.
+
+0 - SUCCESS
+1 - FAILURE
+2 - TIMEOUT
+Enter your choice: 0
+Operation completed successfully!
+           
+Select status:
+0 - SUCCESS
+1 - FAILURE
+2 - TIMEOUT
+Enter your choice: 2
+Operation timed out.
